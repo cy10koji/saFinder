@@ -2,6 +2,12 @@
 It is a (interesting) Strange Attractor finder
 that runs in the Python mode of Processing.
 
+<p>
+<img width="30%" border=1 alt="saFinder_example1" src="https://user-images.githubusercontent.com/95997592/187059138-a9226a51-2386-45f4-8dae-445dfec0e40c.png">
+<img width="30%" border=1 alt="saFinder_example2" src="https://user-images.githubusercontent.com/95997592/187059258-ae5fd032-cbc7-4fb4-86af-0c7f76cb82cc.png">
+<img width="30%" border=1 alt="saFinder_example3" src="https://user-images.githubusercontent.com/95997592/187059320-fd6c352e-144f-4753-802f-cf14085d6fb9.png">
+</p>
+
 ## What is “interesting” ?
 Everyone has their own definition of “interesting”.
 In this program,
